@@ -33,9 +33,6 @@ Currently supported:
 * Python
 * pygame
 * Tkinter
-* Controller images inspired from: [https://gamepadviewer.com/](https://gamepadviewer.com/)
-
-(PS5 black controller design and button press visuals were adapted to match the overlay style.)
 
 ---
 
@@ -82,9 +79,6 @@ Created by: **Mohamed Hisham**
 * Python
 * pygame
 * Tkinter
-* صور مستعارة من موقع: [https://gamepadviewer.com/](https://gamepadviewer.com/)
-
-(تم الاستعانة بشكل دراع PS5 الأسود وتأثيرات الضغطات ليتوافق مع تصميم الـ Overlay)
 
 ---
 
